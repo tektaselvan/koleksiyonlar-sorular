@@ -1,0 +1,16 @@
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\bin\Debug\net5.0\koleksiyonlar-soru-bir.exe
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\bin\Debug\net5.0\koleksiyonlar-soru-bir.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\bin\Debug\net5.0\koleksiyonlar-soru-bir.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\bin\Debug\net5.0\koleksiyonlar-soru-bir.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\bin\Debug\net5.0\koleksiyonlar-soru-bir.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\bin\Debug\net5.0\koleksiyonlar-soru-bir.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\refint\koleksiyonlar-soru-bir.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\koleksiyonlar-soru-bir.genruntimeconfig.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-soru-bir\obj\Debug\net5.0\ref\koleksiyonlar-soru-bir.dll
